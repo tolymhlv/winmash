@@ -1,0 +1,2 @@
+# winmash
+work mash edu
